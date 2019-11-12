@@ -1,4 +1,4 @@
 class Dog 
 end 
 
-Dog = 
+Dog = fiddo 
